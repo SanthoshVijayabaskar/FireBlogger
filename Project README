@@ -1,0 +1,12 @@
+AngularJS
+
+(*) It's a structural framework for creating dynamic web applications by extending HTML capabilities.
+
+FIREBASE
+
+Firebase makes it possible to sync data in real time with our application without bothering about the back-end. All we need to do is make some API calls.
+
+Firebase is a powerful API to store and sync data in real time. Combining the power of AngularJS two-way data binding with Firebase results in a three-way synchronization which is quite awesome.
+
+I am Using angular-seed boilerplate project for getting started with AngularJS.
+
